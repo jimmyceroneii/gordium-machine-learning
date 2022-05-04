@@ -1,0 +1,292 @@
+Academic journals are costly and make access to knowledge hard.md
+Accidentally emailing lots of people is annoying.md
+Adventure for kids is risky.md
+Airlines are unclear about what you can bring.md
+Antiperspirants either suck at their job or suck for your health.md
+App versioning is hard to keep track of.md
+Audio and video settings are difficult to troubleshoot before a meeting.md
+BBQ sauce is so wasteful because it clings to the bottle.md
+Bed sheets are never unwrinkled.md
+Big box stores are a waste of space after the store has left.md
+Big purchases are rare so reflecting afterwards isn't helpful.md
+Bike signals are dangerous to make.md
+Bikers struggle to get help after an accident.md
+Books are too long and verbose.md
+Bootstrapping with no inflow creates unhelpful money habits.md
+Box fans are nice but they are short.md
+Brainwriting is more effective than brainstorming but has no remote capabilities.md
+Brats don’t fit in hot dog buns.md
+Budgeting apps don't work for inconsistent incomes.md
+Budgeting apps make you spend more.md
+Budgeting software is prescriptive and costly.md
+Budgets act as psychological anchors.md
+Budgets are hard to visualize.md
+Bug spray is annoying to apply.md
+Build processes leave you with a lack of control.md
+Build times take a while and you have to wait.md
+Buildings are underutilized.md
+Busy stores are stressful.md
+Buying music rights isn't a centralized proces.md
+Candles are a fire hazard.md
+Candles don't burn all the way down and leave extra wax.md
+Car sales are male dominant.md
+Ceilings are underutilized.md
+Centralization (monopolies) breeds censorship, corruption and rent seeking behavior.md
+Chains of stores don't have enough autonomy and local stores don't have economies of scale.md
+Chapstick lasts too long (it's too big).md
+Cheetos get your fingers dirty.md
+Child psychologists weren't involved in tech design.md
+Clocks can be detrimental to sleep.md
+Clothes rarely fit.md
+Code is easy to "lose" which makes refactoring hard.md
+Coffins are expensive and bad..md
+Comment sections do not create positive conversations.md
+Commercially available hot dogs are too small.md
+Compost takes too long to compost.md
+Computer vision struggles underwater.md
+Consistently sharing stories synchronously with those you care about can slip through the cracks.md
+Content is hard to create consistently.md
+Convenient, free financial services like Mint own your data.md
+Cooking smells great but you can't do it all the time.md
+Databases keep no record of commands run against them.md
+Delayed gratification and craftsmanship are lost in the digital world.md
+Delicious drinks are expensive or unhealthy.md
+Dependencies are hard to get right.md
+Diagnosing Wi-Fi speed and quality is opaque.md
+Discounts are usually false - prices are artificially inflated then dropped 1.md
+Discounts are usually false.md
+Distractions can be helpful to get you through a tough problem, yet can also decrease productivity..md
+Doctor's visits are inefficient (travel time and waiting time).md
+Dog poop bags are hard to open.md
+Dog treats are hard to dispense..md
+Dogs are hard to understand.md
+Doing business on social media requires wading through distractions.md
+Dumb phones are too dumb and smart phones are too smart.md
+Elderly people have difficulty using technology.md
+Elderly who aren't tech enabled struggle to get vaccines.md
+Elders have a hard time remembering things.md
+Embedding custom polls has terrible UX.md
+Estimating board feet in lumber yards is inconsistent or time consuming.md
+Even if you resolve an error on the terminal on the terminal, it's easy to forget how.md
+Evidence backed charities are a well solved problem with a lack of awareness.md
+Experiments at social media companies have no review board like for normal science.md
+Exporting articles into a printable form is time consuming.md
+Eye drops are inaccurate.md
+Fact checking is hard.md
+Few companies solve problems generally like we are trying to.md
+Filing insurance claims for your home is terrible.md
+Finding apartments is hard.md
+Finding early companies is hard.md
+Finding savings everywhere in your budget at once is stressful.md
+Finding ways to save is hard.md
+Flossers are nice but are wasteful.md
+Flu shots are less effective after inadequate sleep.md
+Forgetting to push code slows a project.md
+Fridges waste lots of energy.md
+Front end testing is flaky.md
+Getting in the zone for reading is a challenge.md
+Gmail jumbles your email all into one place.md
+Grass is terrible for the environment.md
+Grocery stores are not wheelchair accessible.md
+Hand outs aren't great for esteem.md
+Hard of hearing can't hear concerts.md
+Having unrelated windows up is distracting.md
+Hiring is expensive with high risk of sunk cost fallacy.md
+Homeless people have trouble with interviews.md
+Hot drinks have a small drinkable range.md
+Housing cost calculators don't include long term costs like roof repair.md
+Humans have limited memories.md
+Hyperlocal social media is polluted by advertising and other interests.md
+Ideas in articles are hard to extract.md
+In college business competitions, the quality of the invention is rarely assessed, just the prospects of the business..md
+Incubators have bad incentive structures.md
+Insects are annoying at bonfires.md
+It is hard to know what jobs are for super heroes, and what jobs just have a high bar..md
+It is hard to know what plants make a complete protein.md
+It is hard to know when you are overpaying for things.md
+It's easy to send an angry email.md
+It's easy to talk too much in a conversation.md
+It's hard to connect with people on large video calls.md
+It's hard to identify items you don't need.md
+It's hard to keep track of your assumptions for a product.md
+It's hard to know if shoes are worn out.md
+It's hard to know where you are in a codebase.md
+It's hard to network without coming off like a chump.md
+It's hard to tell fake sale from real sale from consistently low price.md
+It's hard to view the layers of a code base.md
+Item finders require smartphones.md
+It’s hard to connect small donors with people in need.md
+It’s hard to enter your information over the phone.md
+Jira is impossible to search.md
+Job postings can be red herrings.md
+Keeping up with old friends is hard.md
+Landlords are often predatory.md
+Lawn care is fragmented and time consuming.md
+Lean canvases are not useful or entertaining as a pre-solution filter.md
+Leaves make lawns look bad.md
+Legos end up jumbled and sorting legos is hard.md
+Logical fallacies are well defined but rarely applied.md
+Logs are repetitive and time consuming.md
+Long running processes block you with no indication of completion time.md
+Machine learning in general is opaque.md
+Mailing things is hard.md
+Making a budget is hard.md
+Making decisions is hard.md
+Many LinkedIn connections are weak.md
+Maps don’t tell you where you’ve been.md
+Maps on your phone don’t allow you to customize the route.md
+Masks are hard to breathe in.md
+Masks are wasted on the ground.md
+Medium stats suck (and so does their API).md
+Meeting people to date is hard.md
+Misgendering is common and pervasive.md
+Money for schools is silohed and can't go to the community.md
+Money is intangible.md
+Money is not easily converted into future value.md
+Moodle sucks and so do most classroom management softwares.md
+Most of the content on the web is static and hard to learn from.md
+Most young entrepreneurs don't have money to pay for services.md
+Moving where you live in areas controlled by gangs is near impossible.md
+Music is challenging to explore.md
+Nasal strips (like bandaids) are individually packed.md
+Not all problems are for us to tackle.md
+Notes apps dont let you stack notes.md
+Our email is the key to all of our accounts.md
+Our temperature is constant year round in our homes.md
+Outside is cold in the winter.md
+Paint is permanent and our taste is changeable.md
+Parallel parking is space efficient but difficult and dangerous.md
+Paywalls are frustrating when using Google.md
+People can't season their food well.md
+People from wealthy nations don't give away enough money.md
+Pestering companies works but is time consuming.md
+Physical books are really nice to read. Getting quotes from physical books is a real pain..md
+Picking the wrong startup idea is catastrophic.md
+Political lawn signs are useless.md
+Prediction Visibility is Low.md
+Price is a lonely number.md
+Putt putt courses are static.md
+Qualitative Data is undervalued + hard to analyze.md
+Ratings are deceptive to the human eye.md
+Recommendation engines are impersonal.md
+Religious orders aren't accountable to the Catholic church.md
+Reminders are very rigid.md
+Restaurants have to manage so many different types of orders..md
+Retirement is a far off risk.md
+Retirement may not mean you stop working entirely and projections don't take that into account.md
+Rewards decrease the long term intrinsic value of the behavior you are rewarding.md
+Ring boxes are insecure and rings fall.md
+Risk is not taken into account in our financial system.md
+Roofs absorb heat at the wrong times.md
+Rounding down prices makes us think things are cheaper.md
+Sc3nius.md
+Scheduled payments are not easy to make.md
+Search engines are opaque.md
+Search engines cast too wide a net.md
+Sending small amounts of money is great psychologically but expensive.md
+Shampoo isnt great for some peoples fair, but transitioning to no shampoo is uncomfortable.md
+Silence is difficult to find.md
+Slack has no context.md
+Slack has no pomodoro app built for pair programming.md
+Small things cause big problems in law enforcement.md
+Social media creates manipulative relationships.md
+Social media hijacks our attention.md
+Socks are not foot specific.md
+Socks wear out quickly.md
+Solar panels dont work for charging electronic devices on most long distance trails.md
+Solutions with potential to be generalized get stuck in silos.md
+Some marsh mellow roasters are too short.md
+Some printers only have limited memory, are dumb, can't print double sided.md
+Sorting Ideas is hard.md
+Sound in songs is variable on Spotify.md
+Sports projections are garbage.md
+Spreadsheets are hard to use on a phone.md
+Spreadsheets are overwhelming for budgeting.md
+Starting new books is the pits and choosing new books is even worse.md
+Starting with problems leads us to seek over complicated solutions.md
+Sunscreen is hard to put on.md
+TV shows are long.md
+Tabs are overwhelming.md
+Tattoos are permanent.md
+Teaching boards aren't centralized.md
+Temporary tattoos are not custom.md
+The cost of distractions is low.md
+The history of tech is not well known.md
+The more purchases you make the more money you spend.md
+The negative externalities of tech are invisible.md
+The pink tax makes products for women more expensive.md
+The tabs at the far end of the browser draw an inordinate amount of attention (tabs aren't evenly distributed in importance).md
+The web masks regional differences.md
+There are 600 million guns in the US.md
+There are lots of investment rules out there but no clear explanations for why they exist.md
+There are no board games that make fun of work.md
+There are no places to wait while in a car.md
+There are simple safety improvements on guns that aren't implemented.md
+There are volume controls in zoom but not in real life.md
+There is a high overhead for organizing information.md
+There is information asymmetry between Big Tech and common people.md
+There is little data on hand in the gun purchase process from dealer to buyer.md
+There is no automated mind mapping that makes connections you wouldn't see.md
+There is no centralized way to compare wifi prices.md
+There is no easy way to convert between Firefox and Chrome Extensions.md
+There is no general advice book for technical careers.md
+There is no good way to connect books while reading.md
+There is no no code for Chrome and Firefox Extensions.md
+There is no one digital “home”.md
+There is no taco bell for Indian food.md
+There is no visual way to explore the internet.md
+There is no way to test long term investment heuristics over time.md
+There is not always a place you can drop off things for a friend to pick up.md
+There is nowhere to validate startup ideas..md
+There isn’t good software for simply resurfacing notes.md
+There seems to be little utilization of AI in budgeting.md
+There's a lack of good info about local restaurants.md
+Things you don't buy are silent evidence.md
+Time at work can become legalistic.md
+Tracking your money makes you aware of how much extra you have leading to excess spending.md
+Traditional advertising channels are expensive and saturated.md
+Traditional file directories are useless for organization complicated topics.md
+Transporting fish is not fun.md
+Travel Prices are complicated.md
+Undue focus on time wastes time.md
+Urls and emails can be hacked or misspelled to give you malware.md
+User manuals are boring but important.md
+Waiting around in a Zoom meeting sucks.md
+We Text Wrong.md
+We buy by habit not logic.md
+We can heat things quickly but can't cool them quickly.md
+We do things for success and not information.md
+We don't do constructive feedback well.md
+We don't have great memories and people and media change opinions without us knowing.md
+We don't know how much we use things.md
+We don't make good investment decisions alone.md
+We don't realize how long we are on our phones.md
+We live in biased bubbles.md
+We only learn to type on keyboards.md
+We only see writers once they are good.md
+We think in 3D but we code in 2D.md
+We try to add happiness instead of removing negatives (which gives the greatest boost to happiness).md
+We use the sunk cost fallacy when we buy big things.md
+We weren't evolved to handle large groups.md
+Weather affects driving but is not visible in the maps app.md
+When a turd is dropped into the porcelain throne, the splash is... uncomfortable.md
+When thru hiking, it is best to use a tarp tent because of weight but free standing tents are easier or better.md
+Wifi access in rural areas is terrible.md
+Winter activities are expensive.md
+Work cannot be visualized.md
+Work needs comic relief.md
+Writers have limited output.md
+Writers opinions evolve over time but old posts don't give context.md
+Writing requires lots of research.md
+You can get caught not paying attention in zoom.md
+You can't cancel or manage donations in a centralized location.md
+You can't draw on your screen unless you are sharing it.md
+You can't label or curate commands that are leftover in the terminal.md
+You can't save snapshots of documents without "committing" or saving them.md
+You can't see code evolve over time.md
+You can’t play games while driving.md
+You don’t know an avocado is good until you open it.md
+You don’t know which of the books from good reads are available at your library.md
+You have to own your music to play for large crowds.md
+You run out of food at different rates.md
+iMessages slip through the cracks.md
