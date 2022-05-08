@@ -1,6 +1,7 @@
 import sys
 import os
 import spacy
+import pandas as pd
 
 ## grab the idea passed
 currentIdea = sys.argv[3]
@@ -66,5 +67,16 @@ for word in cleanedCurrentIdea:
 			fileScores[file] = docTotal / count
 
 ## sorts the scores by title
-sortedFileScores = dict(sorted(fileScores.items(),key= lambda x:x[1]))
-print(sortedFileScores)
+sortedFileScores = dict(sorted(fileScores.items(),key= lambda x:x[1], reverse=True))
+
+## create a dataframe from the sorted dictionary
+display = list()
+for key, value in sortedFileScores.items():
+	temp = list()
+	temp.append(key)
+	temp.append(value)
+	display.append(temp)
+
+## print the dataframe all nice
+df = pd.DataFrame(display, columns=['Title', 'Score'])
+print(df.head(10))

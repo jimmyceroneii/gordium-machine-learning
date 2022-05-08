@@ -98,6 +98,7 @@ Housing cost calculators don't include long term costs like roof repair.md
 Humans have limited memories.md
 Hyperlocal social media is polluted by advertising and other interests.md
 Ideas in articles are hard to extract.md
+Impacts of lighting are opaque.md
 In college business competitions, the quality of the invention is rarely assessed, just the prospects of the business..md
 Incubators have bad incentive structures.md
 Insects are annoying at bonfires.md
