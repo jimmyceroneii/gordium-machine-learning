@@ -10,35 +10,35 @@ currentIdea = sys.argv[3]
 cleanedCurrentIdea = currentIdea.split('-')
 
 ## grab the file name from the command line
-file = sys.argv[2]
+fileWithListOfFiles = sys.argv[2]
 
 ## create a list to hold the files
-fileNames = list()
+ideaFileNames = list()
 
 ## open the file of files (from ls)
-with open(file) as file:
+with open(fileWithListOfFiles) as fileWithListOfFiles:
 	## start to read the file 
-	fileOfFiles = file.read()
+	fileOfIdeaTitles = fileWithListOfFiles.read()
 
 	## split the list of files on newlines
-	uncleanedList = fileOfFiles.split('\n')
+	uncleanedList = fileOfIdeaTitles.split('\n')
 
 	## remove any empty strings from the list
-	cleanedList = [x for x in uncleanedList if len(x) > 0]
+	cleanedListOfIdeaFiles = [x for x in uncleanedList if len(x) > 0]
 
 	## loop through the list of files
-	for idea in cleanedList:
+	for idea in cleanedListOfIdeaFiles:
 
 		## remove the .md extension from the file name
 		cleanedIdea = os.path.splitext(idea)
 		
 		## append the cleaned file name to the list
-		fileNames.append(cleanedIdea[0])
+		ideaFileNames.append(cleanedIdea[0])
 
 ## Reference to model: https://spacy.io/models/en#en_core_web_md
 nlp = spacy.load('en_core_web_md')
 
-fileScores = {}
+ideaScores = {}
 
 ## iterate through the words passed in
 for word in cleanedCurrentIdea:
@@ -47,27 +47,27 @@ for word in cleanedCurrentIdea:
 	token = nlp(word)
 
 	## loop through the list of files
-	for file in fileNames:
+	for ideaTitle in ideaFileNames:
 		## turn the title into a doc
-		doc = nlp(file)
+		doc = nlp(ideaTitle)
 		## count the number of words in the title
 		count = 0
 		## keeps the score of the similarity between the current one and the title
-		docTotal = 0
+		ideaTotal = 0
 		## loop through the words in the title
-		for sent in doc.sents:
+		for sentences in doc.sents:
 			## add the similarity score of each word in the title to the running list
-			docTotal += token.similarity(sent)
+			ideaTotal += token.similarity(sentences)
 			count += 1
 		
 		## average the similarity score of the words in the title
-		if file in fileScores:
-			fileScores[file] += docTotal / count
+		if ideaTitle in ideaScores:
+			ideaScores[ideaTitle] += ideaTotal / count
 		else:
-			fileScores[file] = docTotal / count
+			ideaScores[ideaTitle] = ideaTotal / count
 
 ## sorts the scores by title
-sortedFileScores = dict(sorted(fileScores.items(),key= lambda x:x[1], reverse=True))
+sortedFileScores = dict(sorted(ideaScores.items(),key= lambda x:x[1], reverse=True))
 
 ## create a dataframe from the sorted dictionary
 display = list()
@@ -79,4 +79,32 @@ for key, value in sortedFileScores.items():
 
 ## print the dataframe all nice
 df = pd.DataFrame(display, columns=['Title', 'Score'])
-print(df.head(10))
+topIdeaMatches = df.head(10)
+print("\n\n\n#################### Title Similarity #####################\n\n\n")
+print(topIdeaMatches)
+print("\n\n\n################################################################\n\n\n")
+
+## scan these ten files in whole and resort them.
+
+## start iterating through the list of files
+# for idea in topIdeaMatches['Title']:
+# 	cleanedIdea = idea.replace('\\', '')
+## TODO: Fix the use of escaped characters in the file names
+# 	ideaFileName = "/Users/jrcii/Documents/\"Gordium Brain\"/Gordium/Problems/% s.md" %cleanedIdea 
+	
+# 	with open(ideaFileName) as ideaFile:
+# 		ideaFileContent =	ideaFile.read()
+
+# 		lines = ideaFileContent.split('\n')
+
+# 		print(lines)
+	
+## for each file, open it 
+## iterate over each word in the title
+## iterate over each word in the file (TODO: unless it's in a list of skip words)
+## add the similarity score of each word in the title to the running list
+
+## remaining approaches
+## 1. Train a model manually using our pre-existing connections
+## 2. Use similarity on the top 10 documents in the list
+## 3. Classify the texts and then use that to group them	
