@@ -37,7 +37,7 @@ The output of all that work is thus:
 }
 ```
 
-## pandas
+### pandas
 
 Once we have the similarity scores, we need to display them in an efficient and sane way. To do that, we are leveraging the `pandas` library, which is awesome for all things data processing. 
 
